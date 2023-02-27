@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnd-Kanban/static/css/main.e954087a.css",
+    "main.js": "/dnd-Kanban/static/js/main.94032535.js",
+    "index.html": "/dnd-Kanban/index.html",
+    "main.e954087a.css.map": "/dnd-Kanban/static/css/main.e954087a.css.map",
+    "main.94032535.js.map": "/dnd-Kanban/static/js/main.94032535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e954087a.css",
+    "static/js/main.94032535.js"
+  ]
+}
